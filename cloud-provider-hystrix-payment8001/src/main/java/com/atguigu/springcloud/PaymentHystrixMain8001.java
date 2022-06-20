@@ -23,6 +23,7 @@ public class PaymentHystrixMain8001 {
         SpringApplication.run(PaymentHystrixMain8001.class,args);
         System.out.println("hello git");
         System.out.println("hello master git1");
+        System.out.println("hello hot-fix git1");
     }
 
 
