@@ -24,6 +24,7 @@ public class PaymentHystrixMain8001 {
         System.out.println("hello git");
         System.out.println("hello master git1");
         System.out.println("hello hot-fix git1");
+        System.out.println("hello hot-fix git1");
     }
 
 
