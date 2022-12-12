@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * @author NianDQ
+ * @author NianDQ改动点
  * @version 1.0
  * @date 2022/5/29
  **/
@@ -15,6 +15,6 @@ import java.io.Serializable;
 
 @NoArgsConstructor
 public class Payment implements Serializable {
-    private Long id;
+    private Long id;//merge合并测试
     private String serial;
 }
